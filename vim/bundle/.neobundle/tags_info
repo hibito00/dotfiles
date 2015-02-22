@@ -1,0 +1,7 @@
+neobundle.vim
+neocomplcache.vim
+neomru.vim
+neosnippet.vim
+nerdtree
+tcomment_vim
+unite.vim
